@@ -7,7 +7,7 @@ This repository contains code and data for building a machine learning model to 
 
 ## Dataset
 
-The dataset used in this project is a sample dataset containing information about pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, age, and diabetes outcomes. The dataset is available in the [sample_dataset.csv](sample_dataset.csv) file.
+The dataset used in this project is a sample dataset containing information about pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, age, and diabetes outcomes. The dataset is available in the [sample_dataset.csv]([sample_dataset.csv](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)) file.
 
 ## Machine Learning Model
 
